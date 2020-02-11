@@ -12,6 +12,10 @@ system['Afk_remind_days']是提前几天提醒
 大概
 DB()是调用sqlite数据库
 不会的人可以用Json，只需要记录Discord_id和最后活跃时间
+
+不知道用Json的话可以问，很久以前我是用Json来储存数据的，后来换成数据库，有需要可以发
+提示：使用Lens和提取Key
+
 不知道怎么使用最后活跃时间的人先看Discord.py 的API文档里面Event Reference去找on_xxxxxx的东西
 还是不会再问
 """
